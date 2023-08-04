@@ -1,0 +1,9 @@
+[submodule "auv_ws/src/cabin_auv_simulation"]
+	path = auv_ws/src/cabin_auv_simulation
+	url = https://github.com/fan-ziqi/cabin_auv_simulation.git
+[submodule "auv_ws/src/uuv_simulator"]
+	path = auv_ws/src/uuv_simulator
+	url = https://github.com/fan-ziqi/uuv_simulator.git
+[submodule "auv_ws/src/darknet_ros"]
+	path = auv_ws/src/darknet_ros
+	url = https://github.com/leggedrobotics/darknet_ros.git
