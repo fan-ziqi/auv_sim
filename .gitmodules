@@ -6,7 +6,7 @@
 	url = https://github.com/fan-ziqi/uuv_simulator.git
 [submodule "auv_ws/src/darknet_ros"]
 	path = auv_ws/src/darknet_ros
-	url = https://github.com/leggedrobotics/darknet_ros.git
+	url = https://github.com/fan-ziqi/darknet_ros.git
 [submodule "auv_ws/src/geometry2"]
 	path = auv_ws/src/geometry2
 	url = https://github.com/BadgerTechnologies/geometry2.git
